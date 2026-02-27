@@ -15,3 +15,4 @@ N/A
 
 
 
+REPO LINK FOR EASE FROM README: https://github.com/dradose1-uwyo-cosc/ls-part-one-kkrweb
